@@ -180,7 +180,7 @@ async function sendNodeMail() {
         secure: true,//开启加密协议，需要使用465端口
         auth: {
             user: "13469940053@163.com",//用户名
-            pass: "Zhangcheng222"//授权密码
+            pass: "*****"//授权密码
         }
     });
     //设置电子邮件数据

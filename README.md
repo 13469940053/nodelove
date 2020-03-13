@@ -9,7 +9,7 @@
 无风不起浪@你
 ---
 
-# <img src="C:\Users\25087\Desktop\nodelove\img\1.gif" style="zoom:80%;" />  Node 爬虫邮件（定时）发送 —nodelove
+# <img src="https://13469940053.github.io/nodelove/img/1.gif" style="zoom:80%;" />  Node 爬虫邮件（定时）发送 —nodelove
 
 - [x] [作者：无风不起浪@你]: 张成的博客	"https://13469940053.github.io"
 
@@ -222,11 +222,11 @@ sendNodeMail();
 
 ### 163邮箱设置
 
-<img src="C:\Users\25087\Desktop\nodelove\img\3.png" style="zoom:50%;" />
+<img src="https://13469940053.github.io/nodelove/img/3.png" style="zoom:50%;" />
 
-<img src="C:\Users\25087\Desktop\nodelove\img\4.png" style="zoom: 50%;" />
+<img src="https://13469940053.github.io/nodelove/img/4.png" style="zoom: 50%;" />
 
-<img src="C:\Users\25087\Desktop\nodelove\img\5.png" style="zoom:50%;" />
+<img src="https://13469940053.github.io/nodelove/img/5.png" style="zoom:50%;" />
 
 ### QQ邮箱设置
 
